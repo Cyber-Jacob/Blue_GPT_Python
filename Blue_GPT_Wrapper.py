@@ -1,5 +1,4 @@
 import openai
-import sys
 import subprocess
 import ctypes
 
